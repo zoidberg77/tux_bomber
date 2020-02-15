@@ -1,0 +1,10 @@
+1.python-2.6.4.msi ausführen
+2.pygame-1.9.1.win32-py2.6.msi ausführen
+3. python IDEL starten 
+4. start.py öffnen mit Hilfe von IDEL
+5.New Game wählen und spielen(Optionen gibt es leider noch nicht)
+
+Steuerung:
+
+Spieler1: Pfeiltasten um sich zu bewegen+Entfernen um Bomben zu legen+T für MittlereBombe
+Spieler2: WADS um sich zu bewegen+E um Bomben zu legen+R für MittlereBombe
